@@ -2,7 +2,7 @@
 
 <p>Este challenge pertenece al programa <strong>ONE - Oracle Next Education</strong>, donde se nos solicitó ayudar al señor Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento.</p>
 
-## 🎯 objetivo del Challenge
+## 🎯 Objetivo del challenge
 
 <p>Necesitamos hallar:</p>
 
