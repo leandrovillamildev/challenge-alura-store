@@ -6,7 +6,7 @@
 
 <p>Necesitamos hallar:</p>
 
-<p>###1. El análisis de facturación</p>
+###1. El análisis de facturación
 
 <p>Calcular el ingreso total de cada tienda, sumando los valores de la columna precio de cada conjunto de datos de la tienda para estimar los ingresos.</p>
 
