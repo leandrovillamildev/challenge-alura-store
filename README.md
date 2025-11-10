@@ -1,7 +1,6 @@
 <h1>#challengeonealurastore9</h1>
 <p>Este challenge pertenece al programa <strong>ONE - Oracle Next Education</strong>, donde se nos solicitó ayudar al señor Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Se necesita identicar la tienda menos eficiente y presentar las recomensaciones que se obtienen a través de los datos</p>
 <br>
-<br>
 <h2>🎯 Objetivo del challenge</h2>
 <p>Necesitamos hallar:</p>
 <h3>1. El análisis de facturación</h3>
@@ -14,7 +13,6 @@
 <p>Identificar qué productos fueron los más vendidos y los menos vendidos en cada tienda. Visualiza los resultados para que quede claro qué productos destacaron en ventas en cada tienda.</p>
 <h3>5. El envío promedio por tienda</h3>
 <p>Calcular el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda. Sabiendo que el cliente paga el envío.</p>
-<br>
 <br>
 <p>Se debe generar DataFrames y gráficos para observar de una manera más detallada los datos.</p>
 
