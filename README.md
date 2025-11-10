@@ -6,7 +6,8 @@
 
 <p>Necesitamos hallar:</p>
 
-<p>1. El ingreso total de cada tienda, sumando los valores de la columna precio de cada conjunto de datos de la tienda para estimar los ingresos.</p>
+<p>1. Análisis de facturación
+  El ingreso total de cada tienda, sumando los valores de la columna precio de cada conjunto de datos de la tienda para estimar los ingresos.</p>
 
 <p>2. La cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.</p>
 
