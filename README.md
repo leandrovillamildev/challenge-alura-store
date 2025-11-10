@@ -4,8 +4,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <h2>🎯 Objetivo del challenge</h2>
 <br>
 <p>Necesitamos hallar:</p>
@@ -29,6 +27,7 @@
 <h3>5. El envío promedio por tienda</h3>
 <br>
 <p>Calcular el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda. Sabiendo que el cliente paga el envío.</p>
+<br>
 <br>
 <br>
 <p>Se debe generar DataFrames y gráficos para observar de una manera más detallada los datos.</p>
