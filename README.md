@@ -16,5 +16,6 @@
 <h3>5. El envío promedio por tienda</h3>
 <p>Calcular el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda. Sabiendo que el cliente paga el envío.</p>
 <br>
+<h2>🔍 Análisis</h2>
 <p>Se debe generar DataFrames y gráficos para observar de una manera más detallada los datos.</p>
 
