@@ -21,3 +21,14 @@
 <br>
 <h2>⚙️ Entorno de desarrollo</h2>
 <p>Google Colab</p>
+<br>
+<h2>🧠 Tecnologias utilizadas</h2>
+<p>-Python.</p>
+<p>-HTML.</p>
+<br>
+<h2>📘 Librerías utilizadas</h2>
+<p>-Pandas.</p>
+<p>-matplotlib.</p>
+<p>-seaborn.</p>
+<p>-plotly.</p>
+<p>-HeatMap.</p>
