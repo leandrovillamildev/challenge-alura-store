@@ -21,7 +21,7 @@
 <p>-Explorar si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.</p>
 <br>
 <h2>⚙️ Entorno de desarrollo</h2>
-<p>Google Colab</p>
+<p>Google Colab.</p>
 <br>
 <h2>🧠 Tecnologias utilizadas</h2>
 <p>-Python.</p>
