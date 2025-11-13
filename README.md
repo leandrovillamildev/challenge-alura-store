@@ -16,9 +16,9 @@
 <h3>5. El envío promedio por tienda</h3>
 <p>Calcular el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda. Sabiendo que el cliente paga el envío.</p>
 <h3>6. Análisis del desempeño geográfico</h3>
-<p>-Utilice los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.</p>
-<p>-Genere mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.</p>
-<p>-Explore si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.</p>
+<p>-Utilizar los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.</p>
+<p>-Generar mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.</p>
+<p>-Explorar si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.</p>
 <br>
 <h2>⚙️ Entorno de desarrollo</h2>
 <p>Google Colab</p>
