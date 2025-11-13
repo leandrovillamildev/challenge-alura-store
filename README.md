@@ -1,6 +1,5 @@
 <h1>#challengeonealurastore9</h1>
 <br>
-<h2>📋 Descripción del problema</h2>
 <p>Este challenge pertenece al programa <strong>ONE - Oracle Next Education</strong>, donde se nos solicitó ayudar al señor Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Se necesita identicar la tienda menos eficiente y presentar las recomensaciones que se obtienen a través de los datos. Se debe generar DataFrames y gráficos para observar de una manera más detallada los datos.</p>
 <br>
 <h2>🎯 Objetivo del challenge</h2>
@@ -19,3 +18,6 @@
 <p>-Utilice los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.</p>
 <p>-Genere mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.</p>
 <p>-Explore si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.</p>
+<br>
+<h2>⚙️ Entorno de desarrollo</h2>
+<p>Google Colab</p>
