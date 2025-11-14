@@ -1,7 +1,5 @@
 <h1>#challengeonealurastore9</h1>
-<img width="500" height="500" alt="Insignia" src="https://github.com/user-attachments/assets/02504fe1-7264-4b5c-b8d9-e798606e11b3" />
-
-<p align="center"> <img width="781" height="781" alt="image" src="https://github.com/user-attachments/assets/def19d2f-6eaf-4f78-b01b-7bf21f66faee"/> </p>
+<p align="center"> <img width="500" height="500" alt="Insignia" src="https://github.com/user-attachments/assets/02504fe1-7264-4b5c-b8d9-e798606e11b3" /> </p>
 <br>
 <h2>📖 Descripción</h2>
 <p>Este challenge pertenece al programa <strong>ONE - Oracle Next Education</strong>, donde se nos solicitó ayudar al señor Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Se necesita identicar la tienda menos eficiente y presentar las recomensaciones que se obtienen a través de los datos. Se debe generar DataFrames y gráficos para observar de una manera más detallada los datos.</p>
