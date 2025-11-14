@@ -1,4 +1,5 @@
 <h1>#challengeonealurastore9</h1>
+<br>
 <p align="center"> <img width="500" height="500" alt="Insignia" src="https://github.com/user-attachments/assets/02504fe1-7264-4b5c-b8d9-e798606e11b3" /> </p>
 <br>
 <h2>📖 Descripción</h2>
