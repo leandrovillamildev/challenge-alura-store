@@ -20,8 +20,8 @@
 <h3>6. Análisis del desempeño geográfico</h3>
 <p>-Utilizar los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.</p>
 <p>-Generar mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.</p>
-<p>-Explorar si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.</p>
-<p>-Efectúe un gráfico en donde observe el comportamiento de las ventas totales mensuales de cada tienda.</p>
+<p>-Explorar si algunas tiendas tienen un rendimiento superior o inferior en determinadas regiones.</p>
+<p>-Efectuar un gráfico en donde se observe el comportamiento de las ventas totales mensuales de cada tienda.</p>
 <br>
 <h2>⚙️ Entorno de desarrollo</h2>
 <p>Google Colab.</p>
