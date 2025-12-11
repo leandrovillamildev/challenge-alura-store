@@ -17,7 +17,7 @@
 <p>Identificar qué productos fueron los más vendidos y los menos vendidos en cada tienda. Visualiza los resultados para que quede claro qué productos destacaron en ventas en cada tienda.</p>
 <h3>5. El envío promedio por tienda</h3>
 <p>Calcular el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda. Sabiendo que el cliente paga el envío.</p>
-<h3>6. Análisis del desempeño geográfico</h3>
+<h3>6. Análisis del desempeño geográfico y gráfico</h3>
 <p>-Utilizar los datos de latitud (lat) y longitud (lon) para mapear las ventas de cada tienda y analizar la distribución geográfica de los productos vendidos.</p>
 <p>-Generar mapas de calor (Heatmaps) para visualizar datos e identificar áreas con la mayor concentración de ventas.</p>
 <p>-Explorar si algunas tiendas tienen un rendimiento superior o inferior en determinadas regiones.</p>
