@@ -3,7 +3,7 @@
 <p align="center"> <img width="500" height="500" alt="Insignia" src="https://github.com/user-attachments/assets/02504fe1-7264-4b5c-b8d9-e798606e11b3" /> </p>
 <br>
 <h2>📖 Descripción</h2>
-<p>Este challenge pertenece al programa <strong>ONE - Oracle Next Education</strong>, donde se nos solicitó ayudar al señor Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Se necesita identicar la tienda menos eficiente y presentar las recomensaciones que se obtienen a través de los datos. Se debe generar DataFrames y gráficos para observar de una manera más detallada los datos.</p>
+<p>Se nos solicitó ayudar al señor Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Se necesita identicar la tienda menos eficiente y presentar las recomensaciones que se obtienen a través de los datos. Se debe generar DataFrames y gráficos para observar de una manera más detallada los datos.</p>
 <br>
 <h2>🎯 Objetivo del challenge</h2>
 <p>Necesitamos hallar:</p>
